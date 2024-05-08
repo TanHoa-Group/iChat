@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "name": "Chat 247 | Tân Hòa Group",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "startm5",
+      "title": "StartM5",
+      "titlePreset": "StartM5",
+      "styling": {
+        "primaryColor": "#9fe870",
+        "secondaryColor": "#ffd7ef",
+        "successColor": "#3a341c",
+        "infoColor": "#320707",
+        "warningColor": "#a0e2e1",
+        "dangerColor": "#ffea64",
+        "mainFont": "Inter Tight",
+        "display1Font": "Inter Tight",
+        "display1Size": 5,
+        "display2Font": "Inter Tight",
+        "display2Size": 4,
+        "display5Font": "Inter Tight",
+        "display5Size": 2,
+        "display7Font": "Inter Tight",
+        "display7Size": 1.4,
+        "display4Font": "Inter Tight",
+        "display4Size": 1.4,
+        "isRoundedImages": true,
+        "isRoundedButtons": true,
+        "isLargeButtons": true,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.9.18",
+    "siteFonts": [],
+    "imageResize": false,
+    "favicon": "@PROJECT_PATH@/assets/images/00.ico",
+    "witsec-search-excluded-sections": "",
+    "witsec-search-excluded-pages": "404.html",
+    "witsec-search": false,
+    "site_lang": "vi",
+    "witsec-jquery": "3.6.0",
+    "mbrsiteDomain": "3ogahiuhm6",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-white-label": true,
+    "witsec-mailform": false,
+    "global_header_custom": "<script type=\"text/javascript\" src=\"https://tawk.to/public/scripts/popout.js\"></script>\n<script type=\"text/javascript\">\n\t\t\tvar Tawk_API = {\n\t\t\t\tisPopup: true,\n\t\t\t\tonLoad: function () {\n\t\t\t\t\tvar dataObj = parseQueryString();\n\n\t\t\t\t\tif (dataObj.tags !== undefined) {\n\t\t\t\t\t\tTawk_API.addTags(dataObj.tags);\n\t\t\t\t\t}\n\n\t\t\t\t\tif (dataObj.event !== undefined) {\n\t\t\t\t\t\tif (dataObj.attrLength !== 0) {\n\t\t\t\t\t\t\tTawk_API.addEvent(dataObj.event, dataObj.attributes);\n\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\tTawk_API.addEvent(dataObj.event);\n\t\t\t\t\t\t}\n\t\t\t\t\t};\n\t\t\t\t}\n\n\t\t\t}, Tawk_LoadStart = new Date();\n\n\t\t\t(function(){\n\t\t\t\tvar s1=document.createElement(\"script\"),\n\t\t\t\t\ts0=document.getElementsByTagName(\"script\")[0];\n\n\t\t\t\ts1.async=true;\n\t\t\t\ts1.src='https://embed.tawk.to/6639c9dd07f59932ab3ccdce/1ht8rp38s';\n\t\t\t\ts1.charset='UTF-8';\n\t\t\t\ts1.setAttribute('crossorigin','*');\n\n\t\t\t\ts0.parentNode.insertBefore(s1,s0);\n\t\t\t})();\n\t\t</script>",
+    "uniqCompNum": 0,
+    "versionPublish": "5.9.18"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Chat 247 | Tân Hòa Group",
+        "meta_descr": "iChat | WebChat | zChat | Tân Hòa Group | Quảng Cáo Tân Hòa",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
